@@ -7,7 +7,7 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 
 /**
- * Created by daumkakao on 2017. 5. 18..
+ * Created by bluepoet on 2017. 5. 18..
  */
 
 public abstract class SingleFragmentActivity extends FragmentActivity {
